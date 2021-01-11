@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.image-dimensions{
+  max-width: 75% !important;
+  max-height: 239px !important;
+}
+.title-font{
+  font-family: cursive;
+    font-style: italic;
+}
+.rounded1{
+  margin-top: -15px;
+  border-radius: 1rem !important;
+}
+.seperator-bolder{
+  margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-top: 3px solid rgb(0 0 0) !important
+    ;
+}
